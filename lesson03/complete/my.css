@@ -1,0 +1,55 @@
+body {
+	font-family: 'Lato', sans-serif;
+}
+
+.task h3 {
+	text-align: center;
+}
+
+.task table{
+  margin: 0 auto;
+}
+
+.title {
+	text-align: center;
+	font-size: 5rem;
+	margin-top: 4rem;
+}
+
+.content {
+	font-size: 1.2rem;
+	color: blue;
+	text-align: center;
+	padding: 2rem;
+}
+
+#back {
+	text-align: center;
+}
+
+#mbtable {
+	margin: 0 auto;
+	border-spacing: 0;
+}
+
+.cell {
+	height: 3rem;
+	width: 3rem;
+	border-left: 1px solid #ccc;
+	border-top: 1px solid #ccc;
+	text-align: center;
+	cursor: pointer;
+}
+
+.bd_right {
+	border-right: 1px solid #ccc;
+}
+
+.bd_bottom {
+	border-bottom: 1px solid #ccc;
+}
+
+#nextbtn {
+	margin-top: 1.5rem;
+}
+
